@@ -18,12 +18,13 @@ Evaluation Scores on Test Set (Cifar-10):
 
 **For Custom ConvNet model :** 
 
-**testing accuracy: 0.76600**,
-**testing precision: 0.76442**,
-**testing recall: 0.76600**,
-**testing F1-Score: 0.76498**
+**testing accuracy: 0.81550**,
+**testing precision: 0.81572**,
+**testing recall: 0.81550**,
+**testing F1-Score: 0.81538**
 
 **Confusion Matrix :**
-![image](https://github.com/user-attachments/assets/cc550948-ba8a-48c2-a473-a55b100fbe0d)
+![image](https://github.com/user-attachments/assets/cf4ed583-3825-48de-a5a1-1fde32e9fbe8)
+
 
 
